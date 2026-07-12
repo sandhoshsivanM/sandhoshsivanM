@@ -1,5 +1,12 @@
-<h1 align="center">Hi 👋, I'm Sandhoshsivan M</h1>
-<h3 align="center">Full-stack Developer · Angular · .NET · Flutter · actively upskilling 🚀</h3>
+<!-- Animated header banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Sandhoshsivan%20M&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-stack%20Developer%20%C2%B7%20Angular%20%C2%B7%20.NET%20%C2%B7%20Flutter&descAlignY=60&descAlign=50" alt="header" />
+
+<!-- Animated typing subtitle -->
+<p align="center">
+  <a href="https://github.com/sandhoshsivanM">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack+Developer;Angular+%2B+.NET+Core+on+the+web;Flutter+%2B+Dart+on+mobile;Always+upskilling+%F0%9F%9A%80&font=Fira%20Code&center=true&width=440&height=45&color=36BCF7&vCenter=true&size=22" alt="typing" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sandhoshsivanM&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -61,6 +68,30 @@
   <img src="https://streak-stats.demolab.com/?user=sandhoshsivanM&hide_border=true&theme=tokyonight" alt="streak" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sandhoshsivanM&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="trophies" />
+</p>
+
+---
+
+### 🐍 Watch the snake eat my contributions
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sandhoshsivanM/sandhoshsivanM/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sandhoshsivanM/sandhoshsivanM/output/github-contribution-grid-snake.svg" />
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/sandhoshsivanM/sandhoshsivanM/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+---
+
+### 📈 Contribution Activity
+
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=sandhoshsivanM&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
+</p>
+
 ---
 
 ### 🌐 Connect With Me
@@ -71,3 +102,5 @@
   <a href="mailto:sandhoshsivan00@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
   <a href="https://github.com/sandhoshsivanM"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
 </p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" alt="footer" />
