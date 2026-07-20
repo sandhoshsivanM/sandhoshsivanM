@@ -63,7 +63,6 @@ I build backend systems for enterprise ERP — and full stack products on my own
 | **[HireFlow Pro v2](https://github.com/Sandhoshsivan/hireflow-pro-v2)** | Job-application tracking SaaS with AI resume/JD match scoring. Deployed, with Stripe billing. | .NET 10 · React 19 · PostgreSQL · Claude + Gemini |
 | **[Khazana](https://github.com/sandhoshsivanM/FinTech)** | Offline-first personal finance app. All data AES-256 encrypted on device — no backend, no cloud DB. | Flutter · Next.js · SQLCipher · Tauri 2 |
 | **[Airline Fuel MS](https://github.com/sandhoshsivanM/airline-fuel-ms-api)** · [Web](https://github.com/sandhoshsivanM/airline-fuel-ms-web) | Full stack fuel management system — JWT auth, EF Core, Angular SPA. | ASP.NET Core 10 · Angular |
-| **[Sun of Elegance](https://github.com/sandhoshsivanM/sun-of-elegance)** | 2D MonoGame platformer built from pure code — zero external art or audio assets. | MonoGame · C# |
 | **[Steel Strike](https://github.com/Sandhoshsivan/steel-strike)** | Metal Slug–inspired 2D run-and-gun platformer. | .NET · MonoGame |
 
 ---
