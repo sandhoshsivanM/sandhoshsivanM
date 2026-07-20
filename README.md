@@ -76,26 +76,6 @@ I build backend systems for enterprise ERP — and full stack products on my own
 
 ---
 
-### 🐍 Watch the snake eat my contributions
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sandhoshsivanM/sandhoshsivanM/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sandhoshsivanM/sandhoshsivanM/output/github-contribution-grid-snake.svg" />
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/sandhoshsivanM/sandhoshsivanM/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
-
----
-
-### 📈 Contribution Activity
-
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=sandhoshsivanM&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
-</p>
-
----
-
 ### 🌐 Connect With Me
 
 <p align="center">
