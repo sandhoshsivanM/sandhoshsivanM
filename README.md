@@ -70,9 +70,20 @@ I build backend systems for enterprise ERP — and full stack products on my own
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sandhoshsivanM&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandhoshsivanM&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top languages" />
+  <img src="https://streak-stats.demolab.com?user=sandhoshsivanM&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="contribution streak" />
 </p>
+
+<!-- NOTE: the commit-stats and top-languages cards from github-readme-stats.vercel.app
+     were removed because that public instance returns HTTP 503 (rate limited).
+     To restore them, deploy your own instance (free, ~5 min):
+       https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-instance
+     then swap the host below and uncomment:
+
+<p align="center">
+  <img height="165" src="https://YOUR-INSTANCE.vercel.app/api?username=sandhoshsivanM&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
+  <img height="165" src="https://YOUR-INSTANCE.vercel.app/api/top-langs/?username=sandhoshsivanM&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top languages" />
+</p>
+-->
 
 ---
 
