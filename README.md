@@ -60,10 +60,10 @@ I build backend systems for enterprise ERP — and full stack products on my own
 
 | Project | What it is | Stack |
 | --- | --- | --- |
-| **[HireFlow Pro v2](https://github.com/Sandhoshsivan/hireflow-pro-v2)** | Job-application tracking SaaS with AI resume/JD match scoring. Deployed, with Stripe billing. | .NET 10 · React 19 · PostgreSQL · Claude + Gemini |
+| **[HireFlow Pro v2](https://github.com/sandhoshsivanM/hireflow-pro-v2)** | Job-application tracking SaaS with AI resume/JD match scoring. Deployed, with Stripe billing. | .NET 10 · React 19 · PostgreSQL · Claude + Gemini |
 | **[Khazana](https://github.com/sandhoshsivanM/FinTech)** | Offline-first personal finance app. All data AES-256 encrypted on device — no backend, no cloud DB. | Flutter · Next.js · SQLCipher · Tauri 2 |
 | **[Airline Fuel MS](https://github.com/sandhoshsivanM/airline-fuel-ms-api)** · [Web](https://github.com/sandhoshsivanM/airline-fuel-ms-web) | Full stack fuel management system — JWT auth, EF Core, Angular SPA. | ASP.NET Core 10 · Angular |
-| **[Steel Strike](https://github.com/Sandhoshsivan/steel-strike)** | Metal Slug–inspired 2D run-and-gun platformer. | .NET · MonoGame |
+| **[Steel Strike](https://github.com/sandhoshsivanM/steel-strike)** | Metal Slug–inspired 2D run-and-gun platformer. | .NET · MonoGame |
 
 ---
 
