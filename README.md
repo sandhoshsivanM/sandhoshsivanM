@@ -65,6 +65,21 @@ I build backend systems for enterprise ERP — and full stack products on my own
 | **[Airline Fuel MS](https://github.com/sandhoshsivanM/airline-fuel-ms-api)** · [Web](https://github.com/sandhoshsivanM/airline-fuel-ms-web) | Full stack fuel management system — JWT auth, EF Core, Angular SPA. | ASP.NET Core 10 · Angular |
 | **[Steel Strike](https://github.com/sandhoshsivanM/steel-strike)** | Metal Slug–inspired 2D run-and-gun platformer. | .NET · MonoGame |
 
+#### 🔐 Spotlight — Khazana
+
+<a href="https://github.com/sandhoshsivanM/FinTech">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sandhoshsivanM/FinTech/feature/safety-net-and-hardening/docs/showcase/hero-dark.jpg">
+    <img src="https://raw.githubusercontent.com/sandhoshsivanM/FinTech/feature/safety-net-and-hardening/docs/showcase/hero-light.jpg" alt="Khazana — your wealth, your vault. Offline-first, encrypted personal finance." width="100%">
+  </picture>
+</a>
+
+<p align="center">
+  <a href="https://khazana-app.netlify.app"><b>Try it in your browser →</b></a> &nbsp;·&nbsp;
+  <a href="https://github.com/sandhoshsivanM/FinTech">Source &amp; screenshots</a> &nbsp;·&nbsp;
+  <a href="https://github.com/sandhoshsivanM/FinTech/blob/feature/safety-net-and-hardening/docs/Khazana_Technical_Case_Study.pdf">Case study</a>
+</p>
+
 ---
 
 ### 📊 GitHub Stats
