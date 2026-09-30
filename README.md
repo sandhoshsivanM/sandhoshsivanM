@@ -116,8 +116,12 @@ I build backend systems for enterprise ERP — and full stack products on my own
 
 ### 📈 Contribution Activity
 
+<!-- Generated daily into this repo by .github/workflows/profile-cards.yml -->
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=sandhoshsivanM&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/tokyonight/0-profile-details.svg" />
+    <img width="95%" src="./profile-summary-card-output/default/0-profile-details.svg" alt="contribution activity" />
+  </picture>
 </p>
 
 ---
