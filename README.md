@@ -88,17 +88,17 @@ I build backend systems for enterprise ERP — and full stack products on my own
   <img src="https://streak-stats.demolab.com?user=sandhoshsivanM&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="contribution streak" />
 </p>
 
-<!-- NOTE: the commit-stats and top-languages cards from github-readme-stats.vercel.app
-     were removed because that public instance returns HTTP 503 (rate limited).
-     To restore them, deploy your own instance (free, ~5 min):
-       https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-instance
-     then swap the host below and uncomment:
-
+<!-- Stats and languages: generated daily into this repo by .github/workflows/profile-cards.yml -->
 <p align="center">
-  <img height="165" src="https://YOUR-INSTANCE.vercel.app/api?username=sandhoshsivanM&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
-  <img height="165" src="https://YOUR-INSTANCE.vercel.app/api/top-langs/?username=sandhoshsivanM&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/tokyonight/3-stats.svg" />
+    <img height="165" src="./profile-summary-card-output/default/3-stats.svg" alt="GitHub stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
+    <img height="165" src="./profile-summary-card-output/default/2-most-commit-language.svg" alt="top languages by commit" />
+  </picture>
 </p>
--->
 
 ---
 
