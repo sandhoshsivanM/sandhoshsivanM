@@ -68,10 +68,7 @@ I build backend systems for enterprise ERP — and full stack products on my own
 #### 🔐 Spotlight — Khazana
 
 <a href="https://github.com/sandhoshsivanM/FinTech">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sandhoshsivanM/FinTech/feature/safety-net-and-hardening/docs/showcase/hero-dark.jpg">
-    <img src="https://raw.githubusercontent.com/sandhoshsivanM/FinTech/feature/safety-net-and-hardening/docs/showcase/hero-light.jpg" alt="Khazana — your wealth, your vault. Offline-first, encrypted personal finance." width="100%">
-  </picture>
+  <img src="https://raw.githubusercontent.com/sandhoshsivanM/FinTech/feature/safety-net-and-hardening/docs/showcase/hero-split.jpg" alt="Khazana — your wealth, your vault. The dashboard in light and dark themes, side by side." width="100%">
 </a>
 
 <p align="center">
