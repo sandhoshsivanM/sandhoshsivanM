@@ -99,7 +99,7 @@ I build backend systems for enterprise ERP — and full stack products on my own
 
 ---
 
-### 🐍 Watch the snake eat my contributions
+<!---### 🐍 Watch the snake eat my contributions
 
 <p align="center">
   <picture>
@@ -110,7 +110,7 @@ I build backend systems for enterprise ERP — and full stack products on my own
 </p>
 
 ---
-
+--->
 ### 📈 Contribution Activity
 
 <!-- Generated daily into this repo by .github/workflows/profile-cards.yml -->
