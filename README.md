@@ -1,10 +1,18 @@
 <!-- Animated header banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Sandhoshsivan%20M&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend-focused%20Full%20Stack%20Developer%20%C2%B7%20.NET%20%C2%B7%20React%20%C2%B7%20Azure&descAlignY=60&descAlign=50" alt="header" />
 
+<!-- Coding profile first: reviewers look for it at the top. -->
+<p align="center">
+  <a href="https://leetcode.com/u/Sandhoshsivan/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="leetcode" /></a>
+  <a href="https://www.linkedin.com/in/sandhoshsivan-m/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+  <a href="https://sandhoshsivanm.github.io/"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="portfolio" /></a>
+  <a href="mailto:sandhoshsivan00@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
+</p>
+
 <!-- Animated typing subtitle -->
 <p align="center">
   <a href="https://github.com/sandhoshsivanM">
-    <img src="https://readme-typing-svg.demolab.com/?lines=.NET+Backend+Developer;600%2B+REST+endpoints+in+production;ERP+%2B+Finance+systems+at+enterprise+scale;React+%2B+Angular+%2B+Flutter+on+the+front&font=Fira%20Code&center=true&width=460&height=45&color=36BCF7&vCenter=true&size=22" alt="typing" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Backend+Developer+(.NET);600%2B+REST+endpoints+in+production;ERP+%2B+Finance+systems+at+enterprise+scale;React+%2B+Angular+%2B+Flutter+on+the+front&font=Fira%20Code&center=true&width=460&height=45&color=36BCF7&vCenter=true&size=22" alt="typing" />
   </a>
 </p>
 
@@ -19,7 +27,7 @@
 
 I build backend systems for enterprise ERP — and full stack products on my own time.
 
-- 💼 **.NET Backend Developer @ Technoduces** (Mar 2023 – present), delivering on-site for **Adeeb Group, Abu Dhabi**
+- 💼 **Backend Developer (.NET) @ Technoduces** (Mar 2024 – present), delivering on-site for **Adeeb Group, Abu Dhabi**
 - 🏗️ Sole backend developer on a **28-module ERP platform** — 600+ REST endpoints, 1,170+ domain entities, 500+ concurrent users
 - 💰 Deepest in **finance systems**: a double-entry General Ledger with 16 transaction handlers that passed internal audit
 - ⚡ Things I enjoy building: caching layers, event-driven pipelines, and search that doesn't need a cloud API
@@ -72,7 +80,7 @@ I build backend systems for enterprise ERP — and full stack products on my own
 </a>
 
 <p align="center">
-  <a href="https://khazana-app.netlify.app"><b>Try it in your browser →</b></a> &nbsp;·&nbsp;
+  <a href="https://khazana-app.netlify.app/demo/"><b>Try the demo, no PIN →</b></a> &nbsp;·&nbsp;
   <a href="https://github.com/sandhoshsivanM/FinTech">Source &amp; screenshots</a> &nbsp;·&nbsp;
   <a href="https://github.com/sandhoshsivanM/FinTech/blob/feature/safety-net-and-hardening/docs/Khazana_Technical_Case_Study.pdf">Case study</a>
 </p>
@@ -127,7 +135,7 @@ I build backend systems for enterprise ERP — and full stack products on my own
 
 <p align="center">
   <a href="https://sandhoshsivanm.github.io/"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="portfolio" /></a>
-  <a href="https://www.linkedin.com/in/sandhoshsivan-m-950900230/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+  <a href="https://www.linkedin.com/in/sandhoshsivan-m/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
   <a href="https://medium.com/@sandhoshsivan00"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="medium" /></a>
   <a href="mailto:sandhoshsivan00@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
 </p>
